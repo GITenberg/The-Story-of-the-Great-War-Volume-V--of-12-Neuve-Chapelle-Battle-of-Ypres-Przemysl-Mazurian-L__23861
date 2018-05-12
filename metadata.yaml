@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '4145'
     url: http://www.gutenberg.org/2009/agents/4145
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23861#The-Story-of-the-Great-War-Volume-V--of-12-Neuve-Chapelle-Battle-of-Ypres-Przemysl-Mazurian-L_
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-12-14'
 gutenberg_type: Text
