@@ -1,0 +1,39 @@
+_repo: The-Story-of-the-Great-War-Volume-V--of-12-Neuve-Chapelle-Battle-of-Ypres-Przemysl-Mazurian-L__23861
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Miller, Francis Trevelyan
+    alias: Miller, Francis T.
+    birthdate: 1877
+    deathdate: 1959
+    gutenberg_agent_id: '309'
+    url: http://www.gutenberg.org/2009/agents/309
+  - agent_name: Churchill, Allen L. (Allen Leon)
+    birthdate: 1873
+    gutenberg_agent_id: '6758'
+    url: http://www.gutenberg.org/2009/agents/6758
+  - agent_name: Reynolds, Francis J. (Francis Joseph)
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '4145'
+    url: http://www.gutenberg.org/2009/agents/4145
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'D501'
+title: 'The Story of the Great War, Volume V (of 12)
+
+  Neuve Chapelle, Battle of Ypres, Przemysl, Mazurian Lakes'
+url: http://www.gutenberg.org/ebooks/23861
